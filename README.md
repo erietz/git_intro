@@ -1,1 +1,2 @@
-Ethan rietz
+Ethan Rietz
+rietze@oregonstate.edu
